@@ -9,11 +9,6 @@ An interactive data analysis dashboard exploring **15+ years of IPL match data**
 
 ---
 
-## 🚀 Live Demo
-[👉 Click here to try it live](#) *(Deploy on Streamlit Cloud — free)*
-
----
-
 ## 📊 Features
 
 - 🏆 **Team Win Analysis** — Top teams by total wins across seasons
@@ -29,8 +24,8 @@ An interactive data analysis dashboard exploring **15+ years of IPL match data**
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/chauhan-03/ipl-data-analysis
-cd ipl-data-analysis
+git clone https://github.com/chauhan-03/project2-ipl-analysis
+cd project2-ipl-analysis
 
 # 2. Install dependencies
 pip install -r requirements.txt
